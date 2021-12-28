@@ -14,13 +14,25 @@ This repo contains my attempt of the assignments of the course "BITS F312 - Neur
 |   Maximum likelihood (ML) decision rule for the multiclass classification  |
 | Maximum a posteriori (MAP) decision rule for the multiclass classification |
 
+|                                Assignment 2                                |
+|:--------------------------------------------------------------------------:|
+|  Non-linear perceptron algorithm using Online Learning (Hebbian learning)|
+|               Kernel perceptron algorithm               |
+|                            Multilayer perceptron based neural network                             |
+|          Radial basis function neural network (RBFNN)          |
+|             Stacked autoencoder based deep neural network             |
+|              Extreme learning machine (ELM) classifier             |
+|          ELM based-autoencoders         |
+|   Support vector machine (SVM)  |
+| Convolutional Neural Network |
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 ## License
-[MIT](https://github.com/AmiteshBadkul/fpga-lab/blob/master/LICENSE)
+[MIT](https://github.com/AmiteshBadkul/nnfl/blob/master/LICENSE)
 
 <!-- LICENSE -->
 ## License
